@@ -1,2 +1,2 @@
-# Foody
-For Bangkit 2021 Capstone Project - Team B21-CAP0285
+# Foody ML Branch
+For storing ML components (model, training data, etc)
