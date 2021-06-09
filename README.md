@@ -5,7 +5,6 @@ For Bangkit 2021 Capstone Project - Team B21-CAP0285
 - Each component from each path has its own branch i.e., android-app & ml-model
 - Here is the Android Application
 ![Link for the aplication](https://drive.google.com/file/d/1GzVeIHffJ9vqrm8-yDMgg8GU2iPp9XOB/view)
-
 - Here are some overview of the UI for the Foody Android App
 
 ![device-2021-06-09-162223](https://user-images.githubusercontent.com/61214433/121324449-53272c00-c943-11eb-8ba4-0ec26fa9c390.png) 
