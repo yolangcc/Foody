@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Order"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/food"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"
+        android:text="Pesanan Anda Akan Segera Kami Proses\nSilahkan Tunggu Penjual Menghubungi dan Mengkonfirmasi Pesanan Anda\n\nTerimakasih :)"
+        android:gravity="center_horizontal|center_vertical"
+        android:textSize="20dp"
+        android:textStyle="italic|bold" />
+    <Button
+        android:id="@+id/btnhome"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Menu Utama"
+        android:background="@color/item_color"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"/>
+
+
+</LinearLayout>

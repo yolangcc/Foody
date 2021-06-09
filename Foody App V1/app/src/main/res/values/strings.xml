@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pesan Makanan</string>
+
+    // Errors
+    <string name="error_message">Terdapat Kesalahan</string>
+    <string name="retry">Ulangi</string>
+
+    // Cart Item
+    <string name="add">Tambah</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="cart_item">Keranjang (%s Barang)</string>
+    <string name="Daftar">Daftar Makanan</string>
+    <string name="bangkit_restaurent">FOODY</string>
+    <string name="card_subtitle">5.0 | Buka Setiap Hari : 09:00 - 23:00</string>
+    <string name="card_contact">Hubungi Kami : 081234567322</string>
+
+
+    <string name="place_order">PESAN</string>
+    <string name="review_orders">Daftar Pesanan</string>
+    <string name="total_cost">Total Harga</string>
+    <string name="total_price">Rp. %s </string>
+    <string name="my_cart">Keranjang Saya</string>
+    <string name="show_more"><u>Tampilkan Semua</u></string>
+    <string name="show_less"><u></u>Tutup</string>
+</resources>

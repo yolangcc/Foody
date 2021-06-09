@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Donat",
+    "description": "Stock tersedia hanya rasa coklat dan keju",
+    "currency": "Rp. ",
+    "rate": "5000",
+    "quantity": 0
+  },
+  {
+    "title": "Pisang Crispy",
+    "description": "Stock hanya tersedia sampai jam 5 sore",
+    "currency": "Rp. ",
+    "rate": "8000",
+    "quantity": 0
+  },
+  {
+    "title": "Burger",
+    "description": "Tersedia rasa ayam saja 10pcs",
+    "currency": "Rp. ",
+    "rate": "6500",
+    "quantity": 0
+  },
+  {
+    "title": "Sate Taichan",
+    "description": "Stock sisa 6 porsi",
+    "currency": "Rp. ",
+    "rate": "15000",
+    "quantity": 0
+  },
+  {
+    "title": "Roti Muffin",
+    "description": "Tersedia rasa keju saja",
+    "currency": "Rp. ",
+    "rate": "4000",
+    "quantity": 0
+  }
+]
